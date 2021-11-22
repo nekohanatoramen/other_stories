@@ -13,7 +13,4 @@
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3415.jpeg" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
-
-![](https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3415.jpeg)
