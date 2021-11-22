@@ -57,6 +57,66 @@ connect了一个香港人（叫啥我也忘了），生日居然跟我是一天�
 我感觉这样下去不行，于是一狠心换了一波照片（放了一些正面照，于是就变成了hot bagel 2333）
 
 
+吴
+
+Roman
+
+新加坡人，哥大的生物phd
+
+又是一个abc
+
+一个amazon的码农，印度人
+
+哥大物理phd，写诗
+
+接了婚的那个小哥，哥大物理phd，弹钢琴
+
+一个台湾人，cornell tech cs的master
+
+家长群介绍的 普林斯顿物理postdoc
+
+刘一峰学长
+
+中科大少年班的
+
+日本小哥哥
+
+另一个日本小哥哥
+
+一个巴基斯坦的医生
+
+叶茂欣
+
+
+然后就疫情了
+
+然后 
+
+nyu的econ phd
+
+哥大的ap
+
+一个学建筑的
+
+
+把location改到加州了
+
+视频聊天了几个人
+
+
+
+
+
+可能有漏掉的人，都不重要，想不起来了都
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3415.jpeg" width="350" title="hover text">
