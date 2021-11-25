@@ -125,8 +125,3 @@ nyu的econ phd
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3415.jpeg" width="350" title="hover text">
-</p>
